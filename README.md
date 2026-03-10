@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-printf("My name is Pardhu");
+printf("My name is rahul");
 printf("Welcome to SIMATS");
 return 0;
 }
